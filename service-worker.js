@@ -9,4 +9,4 @@ function changeEvent(selector, timeout) {
   }, timeout);
 }
 changeEvent(".fAwxxf.TzAKVc", 0);
-changeEvent("#tw-spkr-button", 3000);
+changeEvent("#tw-spkr-button", 5000);
